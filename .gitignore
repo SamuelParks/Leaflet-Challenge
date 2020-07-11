@@ -1,4 +1,6 @@
 # Ignore files related to API keys
 .env
 
+config.js
+
 .DS_Store
